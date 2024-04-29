@@ -14,7 +14,7 @@ sales, marketing, and supply chain management.
 
 
 ## Dashboard Link
-https://app.powerbi.com/groups/me/reports/911be4fa-8d45-44c9-bd9e-24d0f0d3b720/ReportSection69e09894a4a4557d4b36?experience=power-bi&clientSideAuth=0
+https://app.powerbi.com/view?r=eyJrIjoiOTdjN2QyMWQtNDJlNC00OTAyLThiOTQtM2Q3ZTQ3Y2E4NDUyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 ## Steps followed
  1.planning and scoping of the project, 
 2.data collection, and exploration.
