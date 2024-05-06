@@ -14,7 +14,7 @@ sales, marketing, and supply chain management.
 
 
 ## Dashboard Link
-https://app.powerbi.com/view?r=eyJrIjoiOTdjN2QyMWQtNDJlNC00OTAyLThiOTQtM2Q3ZTQ3Y2E4NDUyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+https://app.powerbi.com/view?r=eyJrIjoiNzFiODY2MjMtZjJlYS00ZTEzLWFjZjEtMWQyZDVkODNjZGJiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 ## Steps followed
  1.planning and scoping of the project, 
 2.data collection, and exploration.
@@ -60,20 +60,21 @@ Executive Dashboard: This dashboard, designed for executives,
 4.DAX Studio for optimizing reports.
 
 ## Screenshots
+Homepage
+![Homepage](https://github.com/devraj-mondal/Powerbi-Business-Insights-360-Project/assets/64974135/1b91b0f4-0d21-4f41-9640-fb89192b60d7)
+Info page
+![infopage](https://github.com/devraj-mondal/Powerbi-Business-Insights-360-Project/assets/64974135/74305ed8-5e78-4b4a-a1be-1d756c68bbcb)
+Finance View
+![finance View](https://github.com/devraj-mondal/Powerbi-Business-Insights-360-Project/assets/64974135/44cfc45c-18dc-4053-bfb8-62bea0150425)
+Marketing View
+![Marketing View](https://github.com/devraj-mondal/Powerbi-Business-Insights-360-Project/assets/64974135/02888a73-751f-4459-9fb4-31cc12ec94ad)
+SupplyChain View
+![SupplyChain View](https://github.com/devraj-mondal/Powerbi-Business-Insights-360-Project/assets/64974135/4811d706-aa47-4dcf-875e-4c5d5fcf1d38)
+Executive View
+![Executive View](https://github.com/devraj-mondal/Powerbi-Business-Insights-360-Project/assets/64974135/58ad375c-6b7e-4add-852b-fa510958aca4)
+Support Page
+![Support Page](https://github.com/devraj-mondal/Powerbi-Business-Insights-360-Project/assets/64974135/765e64da-ece7-4dcd-92a4-19eed7fdaa8e)
 
-
-
-![Screenshot (22)](https://github.com/devraj-mondal/Power-Bi-BI-360-project/assets/64974135/4d81d5e5-c6b6-436d-9946-fca332ea6cce)
-
-![Screenshot (23)](https://github.com/devraj-mondal/Power-Bi-BI-360-project/assets/64974135/eb3a6571-e317-40aa-9ef7-fac08d5c59bc)
-
-![Screenshot (24)](https://github.com/devraj-mondal/Power-Bi-BI-360-project/assets/64974135/e3d0eabc-a2ca-4f38-a564-65239078143b)
-
-![Screenshot (25)](https://github.com/devraj-mondal/Power-Bi-BI-360-project/assets/64974135/71fe137c-dd43-46e6-b864-a4715575a27a)
-
-![Screenshot (26)](https://github.com/devraj-mondal/Power-Bi-BI-360-project/assets/64974135/1991640a-9312-4b7e-bd0a-f18586371c93)
-
-![Screenshot (27)](https://github.com/devraj-mondal/Power-Bi-BI-360-project/assets/64974135/e0c25297-d2e7-4bb8-b17e-26a2db04259c)
 
 ## 🔗 Links
 
