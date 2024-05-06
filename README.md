@@ -66,6 +66,8 @@ Info page
 ![infopage](https://github.com/devraj-mondal/Powerbi-Business-Insights-360-Project/assets/64974135/74305ed8-5e78-4b4a-a1be-1d756c68bbcb)
 Finance View
 ![finance View](https://github.com/devraj-mondal/Powerbi-Business-Insights-360-Project/assets/64974135/44cfc45c-18dc-4053-bfb8-62bea0150425)
+Sales View
+![Sales View](https://github.com/devraj-mondal/Powerbi-Business-Insights-360-Project/assets/64974135/05006776-8609-4559-8497-cd6e6eccd9ed)
 Marketing View
 ![Marketing View](https://github.com/devraj-mondal/Powerbi-Business-Insights-360-Project/assets/64974135/02888a73-751f-4459-9fb4-31cc12ec94ad)
 SupplyChain View
