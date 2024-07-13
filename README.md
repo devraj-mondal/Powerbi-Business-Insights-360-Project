@@ -14,7 +14,7 @@ sales, marketing, and supply chain management.
 
 
 ## Dashboard Link
-https://app.powerbi.com/view?r=eyJrIjoiNzFiODY2MjMtZjJlYS00ZTEzLWFjZjEtMWQyZDVkODNjZGJiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+https://app.powerbi.com/view?r=eyJrIjoiNmEwNDAzN2YtYmU4Mi00YWY4LTg5ZjMtZTkyNjIzNTNjMTc3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 ## Steps followed
  1.planning and scoping of the project, 
 2.data collection, and exploration.
@@ -67,13 +67,13 @@ Info page
 Finance View
 ![finance View](https://github.com/devraj-mondal/Powerbi-Business-Insights-360-Project/assets/64974135/44cfc45c-18dc-4053-bfb8-62bea0150425)
 Sales View
-![Sales View](https://github.com/devraj-mondal/Powerbi-Business-Insights-360-Project/assets/64974135/05006776-8609-4559-8497-cd6e6eccd9ed)
+![Sales view](https://github.com/user-attachments/assets/8b8efc2c-4a89-431b-b664-246748007397)
 Marketing View
-![marketing view (2)](https://github.com/devraj-mondal/Powerbi-Business-Insights-360-Project/assets/64974135/0b2dc185-9ec9-4fb1-8f6a-2b245cb88063)
+![Marketing View](https://github.com/user-attachments/assets/26af1937-6c2b-4015-b3e0-79643f7d2165)
 SupplyChain View
-![SupplyChain View](https://github.com/devraj-mondal/Powerbi-Business-Insights-360-Project/assets/64974135/4811d706-aa47-4dcf-875e-4c5d5fcf1d38)
+![Supplychain View](https://github.com/user-attachments/assets/e48e2533-9b13-4545-a03d-2d83cdaa5e0e)
 Executive View
-![Executive View](https://github.com/devraj-mondal/Powerbi-Business-Insights-360-Project/assets/64974135/58ad375c-6b7e-4add-852b-fa510958aca4)
+![Executive View](https://github.com/user-attachments/assets/b63b3dce-a277-40d4-a0fe-3f1087f2c816)
 Support Page
 ![Support Page](https://github.com/devraj-mondal/Powerbi-Business-Insights-360-Project/assets/64974135/765e64da-ece7-4dcd-92a4-19eed7fdaa8e)
 
